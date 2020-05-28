@@ -1,5 +1,5 @@
 # Root-metasploitable.py
-In this relo script create a root shell  for the machine metasploitable 2
+This script create a root shell for the vulnerable machine metasploitable 2
 
 Requisment:
 
